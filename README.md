@@ -1,4 +1,4 @@
-Twitter Sentiment Analysis
+<h1>Twitter Sentiment Analysis</h1>
 This project analyzes sentiments in tweets using Natural Language Processing (NLP) techniques. It classifies tweets as positive, negative, or neutral, helping businesses and individuals understand public opinion.
 
 Features
@@ -17,7 +17,6 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/twitter-sentiment-analysis.git
 Install dependencies:
 bash
 Copy
